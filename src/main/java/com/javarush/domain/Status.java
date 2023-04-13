@@ -1,4 +1,4 @@
-package org.example.domain;
+package com.javarush.domain;
 
 public enum Status {
     IN_PROGRESS,
